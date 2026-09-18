@@ -1,4 +1,34 @@
 [
-  {"payment_ref": "PAY-0001", "vendor_id": "V-15", "invoice_number": "SUP-2042",
-   "amount_aud": 1500.0, "idempotency_key": "seed-key-0001", "paid_date": "2026-08-20"}
+  {
+    "payment_ref": "PAY-0001",
+    "vendor_id": "V-15",
+    "invoice_number": "SUP-2042",
+    "amount_aud": 1500.0,
+    "idempotency_key": "seed-key-0001",
+    "paid_date": "2026-08-20"
+  },
+  {
+    "payment_ref": "PAY-669F35",
+    "vendor_id": "V-10",
+    "invoice_number": "SUP-1001",
+    "amount_aud": 1200,
+    "idempotency_key": "INV-001-SUP-1001",
+    "paid_date": "2026-09-19"
+  },
+  {
+    "payment_ref": "PAY-A410BA",
+    "vendor_id": "V-11",
+    "invoice_number": "SUP-1002",
+    "amount_aud": 2030,
+    "idempotency_key": "INV-002-SUP-1002",
+    "paid_date": "2026-09-19"
+  },
+  {
+    "payment_ref": "PAY-8932A1",
+    "vendor_id": "V-99",
+    "invoice_number": "SUP-1007",
+    "amount_aud": 600,
+    "idempotency_key": "INV-007-SUP-1007",
+    "paid_date": "2026-09-19"
+  }
 ]

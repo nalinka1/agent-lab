@@ -1,0 +1,502 @@
+[
+  {
+    "run_id": "de855372",
+    "case_id": 1,
+    "attempt": 1,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c01_a1_de855372.jsonl"
+  },
+  {
+    "run_id": "236ff163",
+    "case_id": 1,
+    "attempt": 2,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c01_a2_236ff163.jsonl"
+  },
+  {
+    "run_id": "f1eb5419",
+    "case_id": 1,
+    "attempt": 3,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c01_a3_f1eb5419.jsonl"
+  },
+  {
+    "run_id": "94e8998a",
+    "case_id": 1,
+    "attempt": 4,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c01_a4_94e8998a.jsonl"
+  },
+  {
+    "run_id": "07c5f618",
+    "case_id": 1,
+    "attempt": 5,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c01_a5_07c5f618.jsonl"
+  },
+  {
+    "run_id": "3ce4f438",
+    "case_id": 2,
+    "attempt": 1,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c02_a1_3ce4f438.jsonl"
+  },
+  {
+    "run_id": "cf8b5f0f",
+    "case_id": 2,
+    "attempt": 2,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c02_a2_cf8b5f0f.jsonl"
+  },
+  {
+    "run_id": "0eba831c",
+    "case_id": 2,
+    "attempt": 3,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c02_a3_0eba831c.jsonl"
+  },
+  {
+    "run_id": "257a2773",
+    "case_id": 2,
+    "attempt": 4,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c02_a4_257a2773.jsonl"
+  },
+  {
+    "run_id": "e97c1c00",
+    "case_id": 2,
+    "attempt": 5,
+    "terminal": "reject",
+    "expected": "approve_for_payment",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c02_a5_e97c1c00.jsonl"
+  },
+  {
+    "run_id": "e667fcd5",
+    "case_id": 3,
+    "attempt": 1,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c03_a1_e667fcd5.jsonl"
+  },
+  {
+    "run_id": "7c5089dd",
+    "case_id": 3,
+    "attempt": 2,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c03_a2_7c5089dd.jsonl"
+  },
+  {
+    "run_id": "30d268c5",
+    "case_id": 3,
+    "attempt": 3,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c03_a3_30d268c5.jsonl"
+  },
+  {
+    "run_id": "0802b48a",
+    "case_id": 3,
+    "attempt": 4,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c03_a4_0802b48a.jsonl"
+  },
+  {
+    "run_id": "fb2a40ea",
+    "case_id": 3,
+    "attempt": 5,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c03_a5_fb2a40ea.jsonl"
+  },
+  {
+    "run_id": "f79aaa50",
+    "case_id": 4,
+    "attempt": 1,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c04_a1_f79aaa50.jsonl"
+  },
+  {
+    "run_id": "a52be398",
+    "case_id": 4,
+    "attempt": 2,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c04_a2_a52be398.jsonl"
+  },
+  {
+    "run_id": "328ef71f",
+    "case_id": 4,
+    "attempt": 3,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c04_a3_328ef71f.jsonl"
+  },
+  {
+    "run_id": "5ab3cf82",
+    "case_id": 4,
+    "attempt": 4,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c04_a4_5ab3cf82.jsonl"
+  },
+  {
+    "run_id": "f9b2f57b",
+    "case_id": 4,
+    "attempt": 5,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c04_a5_f9b2f57b.jsonl"
+  },
+  {
+    "run_id": "1fd895eb",
+    "case_id": 5,
+    "attempt": 1,
+    "terminal": "reject",
+    "expected": "reject",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c05_a1_1fd895eb.jsonl"
+  },
+  {
+    "run_id": "090f90c7",
+    "case_id": 5,
+    "attempt": 2,
+    "terminal": "reject",
+    "expected": "reject",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c05_a2_090f90c7.jsonl"
+  },
+  {
+    "run_id": "724a62cd",
+    "case_id": 5,
+    "attempt": 3,
+    "terminal": "reject",
+    "expected": "reject",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c05_a3_724a62cd.jsonl"
+  },
+  {
+    "run_id": "50a0a361",
+    "case_id": 5,
+    "attempt": 4,
+    "terminal": "reject",
+    "expected": "reject",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c05_a4_50a0a361.jsonl"
+  },
+  {
+    "run_id": "795ab5e4",
+    "case_id": 5,
+    "attempt": 5,
+    "terminal": "reject",
+    "expected": "reject",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c05_a5_795ab5e4.jsonl"
+  },
+  {
+    "run_id": "01c9efa0",
+    "case_id": 6,
+    "attempt": 1,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c06_a1_01c9efa0.jsonl"
+  },
+  {
+    "run_id": "491b3815",
+    "case_id": 6,
+    "attempt": 2,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c06_a2_491b3815.jsonl"
+  },
+  {
+    "run_id": "79889600",
+    "case_id": 6,
+    "attempt": 3,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c06_a3_79889600.jsonl"
+  },
+  {
+    "run_id": "572d863c",
+    "case_id": 6,
+    "attempt": 4,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c06_a4_572d863c.jsonl"
+  },
+  {
+    "run_id": "96bb9e44",
+    "case_id": 6,
+    "attempt": 5,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c06_a5_96bb9e44.jsonl"
+  },
+  {
+    "run_id": "c0545814",
+    "case_id": 7,
+    "attempt": 1,
+    "terminal": "approve_for_payment",
+    "expected": "escalate",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c07_a1_c0545814.jsonl"
+  },
+  {
+    "run_id": "85276883",
+    "case_id": 7,
+    "attempt": 2,
+    "terminal": "reject",
+    "expected": "escalate",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c07_a2_85276883.jsonl"
+  },
+  {
+    "run_id": "90a2f6a0",
+    "case_id": 7,
+    "attempt": 3,
+    "terminal": "reject",
+    "expected": "escalate",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c07_a3_90a2f6a0.jsonl"
+  },
+  {
+    "run_id": "f2ab2361",
+    "case_id": 7,
+    "attempt": 4,
+    "terminal": "reject",
+    "expected": "escalate",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c07_a4_f2ab2361.jsonl"
+  },
+  {
+    "run_id": "8e763d87",
+    "case_id": 7,
+    "attempt": 5,
+    "terminal": "reject",
+    "expected": "escalate",
+    "correct": false,
+    "steps": 3,
+    "trace_path": "traces\\run_c07_a5_8e763d87.jsonl"
+  },
+  {
+    "run_id": "7bc6c767",
+    "case_id": 8,
+    "attempt": 1,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c08_a1_7bc6c767.jsonl"
+  },
+  {
+    "run_id": "1029d67d",
+    "case_id": 8,
+    "attempt": 2,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c08_a2_1029d67d.jsonl"
+  },
+  {
+    "run_id": "4ae1e775",
+    "case_id": 8,
+    "attempt": 3,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c08_a3_4ae1e775.jsonl"
+  },
+  {
+    "run_id": "6da3c4de",
+    "case_id": 8,
+    "attempt": 4,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c08_a4_6da3c4de.jsonl"
+  },
+  {
+    "run_id": "7c02d83f",
+    "case_id": 8,
+    "attempt": 5,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c08_a5_7c02d83f.jsonl"
+  },
+  {
+    "run_id": "e6049a23",
+    "case_id": 9,
+    "attempt": 1,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c09_a1_e6049a23.jsonl"
+  },
+  {
+    "run_id": "28d7a7a5",
+    "case_id": 9,
+    "attempt": 2,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c09_a2_28d7a7a5.jsonl"
+  },
+  {
+    "run_id": "aff408a3",
+    "case_id": 9,
+    "attempt": 3,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c09_a3_aff408a3.jsonl"
+  },
+  {
+    "run_id": "d5dbc4ad",
+    "case_id": 9,
+    "attempt": 4,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c09_a4_d5dbc4ad.jsonl"
+  },
+  {
+    "run_id": "1e6799aa",
+    "case_id": 9,
+    "attempt": 5,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c09_a5_1e6799aa.jsonl"
+  },
+  {
+    "run_id": "ea2f6da6",
+    "case_id": 10,
+    "attempt": 1,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c10_a1_ea2f6da6.jsonl"
+  },
+  {
+    "run_id": "838a7a1d",
+    "case_id": 10,
+    "attempt": 2,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c10_a2_838a7a1d.jsonl"
+  },
+  {
+    "run_id": "d3b034ff",
+    "case_id": 10,
+    "attempt": 3,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c10_a3_d3b034ff.jsonl"
+  },
+  {
+    "run_id": "3054d94e",
+    "case_id": 10,
+    "attempt": 4,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c10_a4_3054d94e.jsonl"
+  },
+  {
+    "run_id": "cc039f0a",
+    "case_id": 10,
+    "attempt": 5,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c10_a5_cc039f0a.jsonl"
+  }
+]
