@@ -1,0 +1,11 @@
+{
+  "V-10": {"vendor_id": "V-10", "name": "Alpha Supplies", "currency": "AUD"},
+  "V-11": {"vendor_id": "V-11", "name": "Beta Trading", "currency": "AUD"},
+  "V-12": {"vendor_id": "V-12", "name": "Gamma Parts", "currency": "AUD"},
+  "V-13": {"vendor_id": "V-13", "name": "Delta Freight", "currency": "AUD"},
+  "V-15": {"vendor_id": "V-15", "name": "Epsilon Metals", "currency": "AUD"},
+  "V-16": {"vendor_id": "V-16", "name": "Zeta Timber", "currency": "AUD"},
+  "V-18": {"vendor_id": "V-18", "name": "Eta Components", "currency": "AUD"},
+  "V-19": {"vendor_id": "V-19", "name": "Theta Cables", "currency": "AUD"},
+  "V-20": {"vendor_id": "V-20", "name": "Iota Fixings", "currency": "AUD"}
+}

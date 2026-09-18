@@ -1,0 +1,28 @@
+{
+  "PO-801": {"po_number": "PO-801", "received_date": "2026-09-01",
+             "line_items": [{"sku": "A1", "qty": 100}]},
+
+  "PO-802": {"po_number": "PO-802", "received_date": "2026-09-02",
+             "line_items": [{"sku": "B2", "qty": 203}]},
+
+  "PO-803": {"po_number": "PO-803", "received_date": "2026-09-03",
+             "line_items": [{"sku": "C3", "qty": 20}]},
+
+  "PO-805": {"po_number": "PO-805", "received_date": "2026-09-05",
+             "line_items": [{"sku": "E5", "qty": 50}]},
+
+  "PO-806": {"po_number": "PO-806", "received_date": "2026-09-06",
+             "line_items": [{"sku": "F6", "qty": 60}]},
+
+  "PO-807": {"po_number": "PO-807", "received_date": "2026-09-07",
+             "line_items": [{"sku": "G7", "qty": 40}]},
+
+  "PO-808": {"po_number": "PO-808", "received_date": "2026-09-08",
+             "line_items": [{"sku": "H8", "qty": 60}]},
+
+  "PO-900": {"po_number": "PO-900", "received_date": "2026-09-09",
+             "line_items": [{"sku": "J10", "qty": 100}]},
+
+  "PO-901": {"po_number": "PO-901", "received_date": "2026-09-09",
+             "line_items": [{"sku": "J10", "qty": 100}]}
+}

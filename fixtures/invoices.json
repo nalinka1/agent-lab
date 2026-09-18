@@ -1,0 +1,41 @@
+{
+  "INV-001": {"invoice_id": "INV-001", "vendor_id": "V-10", "invoice_number": "SUP-1001",
+              "po_number": "PO-801", "currency": "AUD",
+              "line_items": [{"sku": "A1", "qty": 100, "unit_price": 12.0}], "total": 1200.0},
+
+  "INV-002": {"invoice_id": "INV-002", "vendor_id": "V-11", "invoice_number": "SUP-1002",
+              "po_number": "PO-802", "currency": "AUD",
+              "line_items": [{"sku": "B2", "qty": 203, "unit_price": 10.0}], "total": 2030.0},
+
+  "INV-003": {"invoice_id": "INV-003", "vendor_id": "V-12", "invoice_number": "SUP-1003",
+              "po_number": "PO-803", "currency": "AUD",
+              "line_items": [{"sku": "C3", "qty": 20, "unit_price": 53.0}], "total": 1060.0},
+
+  "INV-004": {"invoice_id": "INV-004", "vendor_id": "V-13", "invoice_number": "SUP-1004",
+              "po_number": "PO-804", "currency": "AUD",
+              "line_items": [{"sku": "D4", "qty": 100, "unit_price": 12.0}], "total": 1200.0},
+
+  "INV-005": {"invoice_id": "INV-005", "vendor_id": "V-15", "invoice_number": "SUP-2042",
+              "po_number": "PO-805", "currency": "AUD",
+              "line_items": [{"sku": "E5", "qty": 50, "unit_price": 30.0}], "total": 1500.0},
+
+  "INV-006": {"invoice_id": "INV-006", "vendor_id": "V-16", "invoice_number": "SUP-1006",
+              "po_number": "PO-806", "currency": "AUD",
+              "line_items": [{"sku": "F6", "qty": 100, "unit_price": 25.0}], "total": 2500.0},
+
+  "INV-007": {"invoice_id": "INV-007", "vendor_id": "V-99", "invoice_number": "SUP-1007",
+              "po_number": "PO-807", "currency": "AUD",
+              "line_items": [{"sku": "G7", "qty": 40, "unit_price": 15.0}], "total": 600.0},
+
+  "INV-008": {"invoice_id": "INV-008", "vendor_id": "V-18", "invoice_number": "SUP-1008",
+              "po_number": "PO-808", "currency": "USD",
+              "line_items": [{"sku": "H8", "qty": 60, "unit_price": 20.0}], "total": 1200.0},
+
+  "INV-009": {"invoice_id": "INV-009", "vendor_id": "V-19", "invoice_number": "SUP-1009",
+              "currency": "AUD",
+              "line_items": [{"sku": "I9", "qty": 30, "unit_price": 40.0}], "total": 1200.0},
+
+  "INV-010": {"invoice_id": "INV-010", "vendor_id": "V-20", "invoice_number": "SUP-1010",
+              "po_number": null, "currency": "AUD",
+              "line_items": [{"sku": "J10", "qty": 100, "unit_price": 30.0}], "total": 3000.0}
+}

@@ -1,0 +1,4 @@
+[
+  {"payment_ref": "PAY-0001", "vendor_id": "V-15", "invoice_number": "SUP-2042",
+   "amount_aud": 1500.0, "idempotency_key": "seed-key-0001", "paid_date": "2026-08-20"}
+]
