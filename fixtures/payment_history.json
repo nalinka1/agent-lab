@@ -6,5 +6,13 @@
     "amount_aud": 1500.0,
     "idempotency_key": "seed-key-0001",
     "paid_date": "2026-08-20"
+  },
+  {
+    "payment_ref": "PAY-3E80EA",
+    "vendor_id": "V-10",
+    "invoice_number": "SUP-1001",
+    "amount_aud": 1200,
+    "idempotency_key": "INV-001-SUP-1001",
+    "paid_date": "2026-09-19"
   }
 ]

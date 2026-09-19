@@ -17,6 +17,7 @@ PRICE_IN = 0.20 / 1_000_000
 PRICE_CACHED_IN = 0.02 / 1_000_000
 PRICE_OUT = 1.20 / 1_000_000
 USD_TO_AUD = 1.43
+CRASH_AFTER_APPROVE = True
 
 SYSTEM_PROMPT = (
     "You match supplier invoices against purchase orders and goods receipts. "
@@ -91,7 +92,11 @@ def run_case(case, attempt):
                 tr.terminal(step, name, status, json.dumps(result))
             else:
                 tr.tool_result(step, name, status, json.dumps(result), tool_latency)
-
+            
+            if (name == "approve_for_payment" and status == "ok"
+                    and CRASH_AFTER_APPROVE):
+                tr.close()
+                raise RuntimeError("injected failure after side effect")
             messages.append({
                 "role": "tool",
                 "tool_call_id": call.id,
