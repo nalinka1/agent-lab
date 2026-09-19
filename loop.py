@@ -17,7 +17,7 @@ PRICE_IN = 0.20 / 1_000_000
 PRICE_CACHED_IN = 0.02 / 1_000_000
 PRICE_OUT = 1.20 / 1_000_000
 USD_TO_AUD = 1.43
-CRASH_AFTER_APPROVE = True
+CRASH_AFTER_APPROVE = False
 
 SYSTEM_PROMPT = (
     "You match supplier invoices against purchase orders and goods receipts. "
