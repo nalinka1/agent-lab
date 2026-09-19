@@ -1,9 +1,13 @@
 import argparse
 import json
+import shutil
 
 import cases
 from loop import run_case
 
+def reset_payments():
+    shutil.copy("fixtures/payment_history.seed.json",
+                "fixtures/payment_history.json")
 
 def main():
     ap = argparse.ArgumentParser()
@@ -22,6 +26,7 @@ def main():
     results = []
     for case in selected:
         for attempt in range(1, args.repeat + 1):
+            reset_payments()
             r = run_case(case, attempt)
             mark = "ok " if r["correct"] else "MISS"
             print(f"{mark} case {r['case_id']:2} attempt {attempt} "
@@ -44,8 +49,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-import shutil
 
-def reset_payments():
-    shutil.copy("fixtures/payment_history.seed.json",
-                "fixtures/payment_history.json")

@@ -1,502 +1,502 @@
 [
   {
-    "run_id": "de855372",
+    "run_id": "ef805833",
     "case_id": 1,
     "attempt": 1,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "approve_for_payment",
-    "correct": false,
+    "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c01_a1_de855372.jsonl"
+    "trace_path": "traces\\run_c01_a1_ef805833.jsonl"
   },
   {
-    "run_id": "236ff163",
+    "run_id": "b5b1335e",
     "case_id": 1,
     "attempt": 2,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "approve_for_payment",
-    "correct": false,
+    "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c01_a2_236ff163.jsonl"
+    "trace_path": "traces\\run_c01_a2_b5b1335e.jsonl"
   },
   {
-    "run_id": "f1eb5419",
+    "run_id": "18a839e1",
     "case_id": 1,
     "attempt": 3,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "approve_for_payment",
-    "correct": false,
+    "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c01_a3_f1eb5419.jsonl"
+    "trace_path": "traces\\run_c01_a3_18a839e1.jsonl"
   },
   {
-    "run_id": "94e8998a",
+    "run_id": "9f77caed",
     "case_id": 1,
     "attempt": 4,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "approve_for_payment",
-    "correct": false,
+    "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c01_a4_94e8998a.jsonl"
+    "trace_path": "traces\\run_c01_a4_9f77caed.jsonl"
   },
   {
-    "run_id": "07c5f618",
+    "run_id": "3f91d4ed",
     "case_id": 1,
     "attempt": 5,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "approve_for_payment",
-    "correct": false,
+    "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c01_a5_07c5f618.jsonl"
+    "trace_path": "traces\\run_c01_a5_3f91d4ed.jsonl"
   },
   {
-    "run_id": "3ce4f438",
+    "run_id": "df910133",
     "case_id": 2,
     "attempt": 1,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "approve_for_payment",
-    "correct": false,
+    "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c02_a1_3ce4f438.jsonl"
+    "trace_path": "traces\\run_c02_a1_df910133.jsonl"
   },
   {
-    "run_id": "cf8b5f0f",
+    "run_id": "12f1f98e",
     "case_id": 2,
     "attempt": 2,
-    "terminal": "reject",
+    "terminal": "escalate",
     "expected": "approve_for_payment",
     "correct": false,
     "steps": 3,
-    "trace_path": "traces\\run_c02_a2_cf8b5f0f.jsonl"
+    "trace_path": "traces\\run_c02_a2_12f1f98e.jsonl"
   },
   {
-    "run_id": "0eba831c",
+    "run_id": "fe1820f5",
     "case_id": 2,
     "attempt": 3,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "approve_for_payment",
-    "correct": false,
+    "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c02_a3_0eba831c.jsonl"
+    "trace_path": "traces\\run_c02_a3_fe1820f5.jsonl"
   },
   {
-    "run_id": "257a2773",
+    "run_id": "651fccac",
     "case_id": 2,
     "attempt": 4,
-    "terminal": "reject",
+    "terminal": "escalate",
     "expected": "approve_for_payment",
     "correct": false,
     "steps": 3,
-    "trace_path": "traces\\run_c02_a4_257a2773.jsonl"
+    "trace_path": "traces\\run_c02_a4_651fccac.jsonl"
   },
   {
-    "run_id": "e97c1c00",
+    "run_id": "0e6faf8f",
     "case_id": 2,
     "attempt": 5,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "approve_for_payment",
-    "correct": false,
+    "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c02_a5_e97c1c00.jsonl"
+    "trace_path": "traces\\run_c02_a5_0e6faf8f.jsonl"
   },
   {
-    "run_id": "e667fcd5",
+    "run_id": "d7b12511",
     "case_id": 3,
     "attempt": 1,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c03_a1_e667fcd5.jsonl"
+    "trace_path": "traces\\run_c03_a1_d7b12511.jsonl"
   },
   {
-    "run_id": "7c5089dd",
+    "run_id": "f7962a71",
     "case_id": 3,
     "attempt": 2,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c03_a2_7c5089dd.jsonl"
+    "trace_path": "traces\\run_c03_a2_f7962a71.jsonl"
   },
   {
-    "run_id": "30d268c5",
+    "run_id": "92d4f531",
     "case_id": 3,
     "attempt": 3,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c03_a3_30d268c5.jsonl"
+    "trace_path": "traces\\run_c03_a3_92d4f531.jsonl"
   },
   {
-    "run_id": "0802b48a",
+    "run_id": "ee044e74",
     "case_id": 3,
     "attempt": 4,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c03_a4_0802b48a.jsonl"
+    "trace_path": "traces\\run_c03_a4_ee044e74.jsonl"
   },
   {
-    "run_id": "fb2a40ea",
+    "run_id": "304c2fd2",
     "case_id": 3,
     "attempt": 5,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c03_a5_fb2a40ea.jsonl"
+    "trace_path": "traces\\run_c03_a5_304c2fd2.jsonl"
   },
   {
-    "run_id": "f79aaa50",
+    "run_id": "435d61f2",
     "case_id": 4,
     "attempt": 1,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c04_a1_f79aaa50.jsonl"
+    "trace_path": "traces\\run_c04_a1_435d61f2.jsonl"
   },
   {
-    "run_id": "a52be398",
+    "run_id": "6db200f9",
     "case_id": 4,
     "attempt": 2,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c04_a2_a52be398.jsonl"
+    "trace_path": "traces\\run_c04_a2_6db200f9.jsonl"
   },
   {
-    "run_id": "328ef71f",
+    "run_id": "f92f1660",
     "case_id": 4,
     "attempt": 3,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c04_a3_328ef71f.jsonl"
+    "trace_path": "traces\\run_c04_a3_f92f1660.jsonl"
   },
   {
-    "run_id": "5ab3cf82",
+    "run_id": "d5fcf8ca",
     "case_id": 4,
     "attempt": 4,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c04_a4_5ab3cf82.jsonl"
+    "trace_path": "traces\\run_c04_a4_d5fcf8ca.jsonl"
   },
   {
-    "run_id": "f9b2f57b",
+    "run_id": "e0e21826",
     "case_id": 4,
     "attempt": 5,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c04_a5_f9b2f57b.jsonl"
+    "trace_path": "traces\\run_c04_a5_e0e21826.jsonl"
   },
   {
-    "run_id": "1fd895eb",
+    "run_id": "728ffabf",
     "case_id": 5,
     "attempt": 1,
     "terminal": "reject",
     "expected": "reject",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c05_a1_1fd895eb.jsonl"
+    "trace_path": "traces\\run_c05_a1_728ffabf.jsonl"
   },
   {
-    "run_id": "090f90c7",
+    "run_id": "356c9bfa",
     "case_id": 5,
     "attempt": 2,
     "terminal": "reject",
     "expected": "reject",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c05_a2_090f90c7.jsonl"
+    "trace_path": "traces\\run_c05_a2_356c9bfa.jsonl"
   },
   {
-    "run_id": "724a62cd",
+    "run_id": "36e54576",
     "case_id": 5,
     "attempt": 3,
     "terminal": "reject",
     "expected": "reject",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c05_a3_724a62cd.jsonl"
+    "trace_path": "traces\\run_c05_a3_36e54576.jsonl"
   },
   {
-    "run_id": "50a0a361",
+    "run_id": "13a7eaa5",
     "case_id": 5,
     "attempt": 4,
     "terminal": "reject",
     "expected": "reject",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c05_a4_50a0a361.jsonl"
+    "trace_path": "traces\\run_c05_a4_13a7eaa5.jsonl"
   },
   {
-    "run_id": "795ab5e4",
+    "run_id": "ee6390cc",
     "case_id": 5,
     "attempt": 5,
     "terminal": "reject",
     "expected": "reject",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c05_a5_795ab5e4.jsonl"
+    "trace_path": "traces\\run_c05_a5_ee6390cc.jsonl"
   },
   {
-    "run_id": "01c9efa0",
+    "run_id": "9c6ee603",
     "case_id": 6,
     "attempt": 1,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c06_a1_01c9efa0.jsonl"
+    "trace_path": "traces\\run_c06_a1_9c6ee603.jsonl"
   },
   {
-    "run_id": "491b3815",
+    "run_id": "743444de",
     "case_id": 6,
     "attempt": 2,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c06_a2_491b3815.jsonl"
+    "trace_path": "traces\\run_c06_a2_743444de.jsonl"
   },
   {
-    "run_id": "79889600",
+    "run_id": "5e968560",
     "case_id": 6,
     "attempt": 3,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c06_a3_79889600.jsonl"
+    "trace_path": "traces\\run_c06_a3_5e968560.jsonl"
   },
   {
-    "run_id": "572d863c",
+    "run_id": "511305d8",
     "case_id": 6,
     "attempt": 4,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c06_a4_572d863c.jsonl"
+    "trace_path": "traces\\run_c06_a4_511305d8.jsonl"
   },
   {
-    "run_id": "96bb9e44",
+    "run_id": "84784e85",
     "case_id": 6,
     "attempt": 5,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c06_a5_96bb9e44.jsonl"
+    "trace_path": "traces\\run_c06_a5_84784e85.jsonl"
   },
   {
-    "run_id": "c0545814",
+    "run_id": "128421f9",
     "case_id": 7,
     "attempt": 1,
+    "terminal": "escalate",
+    "expected": "escalate",
+    "correct": true,
+    "steps": 3,
+    "trace_path": "traces\\run_c07_a1_128421f9.jsonl"
+  },
+  {
+    "run_id": "797eda0a",
+    "case_id": 7,
+    "attempt": 2,
     "terminal": "approve_for_payment",
     "expected": "escalate",
     "correct": false,
     "steps": 3,
-    "trace_path": "traces\\run_c07_a1_c0545814.jsonl"
+    "trace_path": "traces\\run_c07_a2_797eda0a.jsonl"
   },
   {
-    "run_id": "85276883",
-    "case_id": 7,
-    "attempt": 2,
-    "terminal": "reject",
-    "expected": "escalate",
-    "correct": false,
-    "steps": 3,
-    "trace_path": "traces\\run_c07_a2_85276883.jsonl"
-  },
-  {
-    "run_id": "90a2f6a0",
+    "run_id": "1f0d156a",
     "case_id": 7,
     "attempt": 3,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "escalate",
     "correct": false,
     "steps": 3,
-    "trace_path": "traces\\run_c07_a3_90a2f6a0.jsonl"
+    "trace_path": "traces\\run_c07_a3_1f0d156a.jsonl"
   },
   {
-    "run_id": "f2ab2361",
+    "run_id": "653ff9cf",
     "case_id": 7,
     "attempt": 4,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "escalate",
     "correct": false,
     "steps": 3,
-    "trace_path": "traces\\run_c07_a4_f2ab2361.jsonl"
+    "trace_path": "traces\\run_c07_a4_653ff9cf.jsonl"
   },
   {
-    "run_id": "8e763d87",
+    "run_id": "4ab726c5",
     "case_id": 7,
     "attempt": 5,
-    "terminal": "reject",
+    "terminal": "approve_for_payment",
     "expected": "escalate",
     "correct": false,
     "steps": 3,
-    "trace_path": "traces\\run_c07_a5_8e763d87.jsonl"
+    "trace_path": "traces\\run_c07_a5_4ab726c5.jsonl"
   },
   {
-    "run_id": "7bc6c767",
+    "run_id": "34c0f1d8",
     "case_id": 8,
     "attempt": 1,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c08_a1_7bc6c767.jsonl"
+    "trace_path": "traces\\run_c08_a1_34c0f1d8.jsonl"
   },
   {
-    "run_id": "1029d67d",
+    "run_id": "b49cc1b8",
     "case_id": 8,
     "attempt": 2,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c08_a2_1029d67d.jsonl"
+    "trace_path": "traces\\run_c08_a2_b49cc1b8.jsonl"
   },
   {
-    "run_id": "4ae1e775",
+    "run_id": "c617ed19",
     "case_id": 8,
     "attempt": 3,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c08_a3_4ae1e775.jsonl"
+    "trace_path": "traces\\run_c08_a3_c617ed19.jsonl"
   },
   {
-    "run_id": "6da3c4de",
+    "run_id": "70a5b738",
     "case_id": 8,
     "attempt": 4,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c08_a4_6da3c4de.jsonl"
+    "trace_path": "traces\\run_c08_a4_70a5b738.jsonl"
   },
   {
-    "run_id": "7c02d83f",
+    "run_id": "54d15966",
     "case_id": 8,
     "attempt": 5,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c08_a5_7c02d83f.jsonl"
+    "trace_path": "traces\\run_c08_a5_54d15966.jsonl"
   },
   {
-    "run_id": "e6049a23",
+    "run_id": "f6aceeda",
     "case_id": 9,
     "attempt": 1,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c09_a1_e6049a23.jsonl"
+    "trace_path": "traces\\run_c09_a1_f6aceeda.jsonl"
   },
   {
-    "run_id": "28d7a7a5",
+    "run_id": "0772c298",
     "case_id": 9,
     "attempt": 2,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c09_a2_28d7a7a5.jsonl"
+    "trace_path": "traces\\run_c09_a2_0772c298.jsonl"
   },
   {
-    "run_id": "aff408a3",
+    "run_id": "b059e552",
     "case_id": 9,
     "attempt": 3,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c09_a3_aff408a3.jsonl"
+    "trace_path": "traces\\run_c09_a3_b059e552.jsonl"
   },
   {
-    "run_id": "d5dbc4ad",
+    "run_id": "de69d33b",
     "case_id": 9,
     "attempt": 4,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c09_a4_d5dbc4ad.jsonl"
+    "trace_path": "traces\\run_c09_a4_de69d33b.jsonl"
   },
   {
-    "run_id": "1e6799aa",
+    "run_id": "9c673231",
     "case_id": 9,
     "attempt": 5,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c09_a5_1e6799aa.jsonl"
+    "trace_path": "traces\\run_c09_a5_9c673231.jsonl"
   },
   {
-    "run_id": "ea2f6da6",
+    "run_id": "b3df1d86",
     "case_id": 10,
     "attempt": 1,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c10_a1_ea2f6da6.jsonl"
+    "trace_path": "traces\\run_c10_a1_b3df1d86.jsonl"
   },
   {
-    "run_id": "838a7a1d",
+    "run_id": "58127a4c",
     "case_id": 10,
     "attempt": 2,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c10_a2_838a7a1d.jsonl"
+    "trace_path": "traces\\run_c10_a2_58127a4c.jsonl"
   },
   {
-    "run_id": "d3b034ff",
+    "run_id": "b7c5eb4c",
     "case_id": 10,
     "attempt": 3,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c10_a3_d3b034ff.jsonl"
+    "trace_path": "traces\\run_c10_a3_b7c5eb4c.jsonl"
   },
   {
-    "run_id": "3054d94e",
+    "run_id": "ba6724f6",
     "case_id": 10,
     "attempt": 4,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c10_a4_3054d94e.jsonl"
+    "trace_path": "traces\\run_c10_a4_ba6724f6.jsonl"
   },
   {
-    "run_id": "cc039f0a",
+    "run_id": "3b7d16c4",
     "case_id": 10,
     "attempt": 5,
     "terminal": "escalate",
     "expected": "escalate",
     "correct": true,
     "steps": 3,
-    "trace_path": "traces\\run_c10_a5_cc039f0a.jsonl"
+    "trace_path": "traces\\run_c10_a5_3b7d16c4.jsonl"
   }
 ]
